@@ -1,31 +1,30 @@
-# 📘 **Explorando Flutter: Cookbook Edition**  
+# 🚀 **Flutter Cookbook Exploration**  
 
-¡Bienvenidos! 👋  
-Soy **Yahir Alberto Ordoñez Puc**, estudiante de **Ingeniería en Desarrollo de Software** en el **5°C** de la **Universidad Tecnológica Metropolitana de Mérida, Yucatán**.  
-Este proyecto representa mi incursión en el mundo de **Flutter**, utilizando las guías y prácticas del **Flutter Cookbook** para mejorar mis habilidades y aprender nuevos conceptos.
-
----
-
-## 📝 **Acerca del Proyecto**  
-
-En este repositorio encontrarás ejemplos prácticos y ejercicios basados en las secciones clave del **Flutter Cookbook**. Cada módulo está diseñado para cubrir aspectos fundamentales del desarrollo de aplicaciones con Flutter.  
-
-### ¿Qué encontrarás aquí?  
-
-- 🎨 **Diseño Visual**: Técnicas para crear interfaces atractivas y funcionales.  
-- 📋 **Listas Dinámicas**: Cómo implementar y personalizar listas interactivas.  
-- 🔀 **Navegación Fluida**: Métodos para moverte entre pantallas sin complicaciones.  
-- 🖼️ **Gestión de Imágenes**: Desde la carga hasta su optimización visual.  
-- ✍️ **Formularios Inteligentes**: Recopilación de datos del usuario de manera eficiente.  
+¡Bienvenido! 👋  
+Soy **Adrián Geovany Domínguez Acevedo**, estudiante de **Ingeniería en Desarrollo de Software** en la **Universidad Tecnológica Metropolitana de Mérida, Yucatán**.  
+Este proyecto es parte de una práctica educativa para dominar Flutter, utilizando como base el **Cookbook de Flutter**, explorando temas clave para el desarrollo de aplicaciones modernas.
 
 ---
 
-## 🛠️ **Tecnologías en Acción**  
+## 📄 **Descripción del Proyecto**  
 
-Este proyecto utiliza las siguientes herramientas:  
+Este repositorio contiene ejercicios y soluciones prácticas del **Flutter Cookbook**, diseñados para reforzar conocimientos fundamentales en desarrollo de aplicaciones móviles.  
 
-- 🛠️ **Flutter**: El framework multiplataforma para crear apps de alto rendimiento.  
-- 💻 **Dart**: Lenguaje de programación moderno que potencia Flutter.  
+### ✨ **Características Principales**  
+1. 🎨 **Interfaz de Usuario (UI)**: Diseño de pantallas modernas y funcionales.  
+2. 📂 **Gestión de Listas**: Creación de listas dinámicas e interactivas para datos.  
+3. 🧭 **Navegación Eficiente**: Implementación de flujos de navegación intuitivos.  
+4. 🖼️ **Manejo de Imágenes**: Uso y optimización de imágenes para enriquecer la experiencia visual.  
+5. ✍️ **Formularios Reactivos**: Desarrollo de formularios para recopilar información de usuarios.  
+
+---
+
+## 🛠️ **Tecnologías Utilizadas**  
+
+| 🛠️ Herramienta   | 📋 Descripción                         |  
+|-------------------|----------------------------------------|  
+| **Flutter**       | Framework de desarrollo multiplataforma |  
+| **Dart**          | Lenguaje de programación de Flutter    |  
 
 ---
 
@@ -34,12 +33,13 @@ Este proyecto utiliza las siguientes herramientas:
 ```plaintext
 📦 flutter_project  
  ┣ 📂 screens  
- ┃ ┣ 📜 design_screen.dart        # Módulo de diseño  
- ┃ ┣ 📜 forms_screen.dart         # Módulo de formularios  
- ┃ ┣ 📜 images_screen.dart        # Módulo de imágenes  
- ┃ ┣ 📜 list_screen.dart          # Módulo de listas  
- ┃ ┣ 📜 navigation_screen.dart    # Módulo de navegación  
+ ┃ ┣ 📜 design_screen.dart        # Pantalla de diseño  
+ ┃ ┣ 📜 forms_screen.dart         # Pantalla de formularios  
+ ┃ ┣ 📜 images_screen.dart        # Pantalla de imágenes  
+ ┃ ┣ 📜 list_screen.dart          # Pantalla de listas  
+ ┃ ┣ 📜 navigation_screen.dart    # Pantalla de navegación  
  ┣ 📜 home_screen.dart            # Pantalla inicial  
  ┣ 📜 main.dart                   # Punto de entrada de la app  
- ┣ 📂 tests                       # Carpeta de pruebas  
+ ┣ 📂 tests                       # Pruebas automatizadas  
  ┃ ┗ 📜 widget_test.dart          # Test de widgets  
+
