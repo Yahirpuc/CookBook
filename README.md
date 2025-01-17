@@ -1,7 +1,7 @@
 # 🚀 **Flutter Cookbook Exploration**  
 
-¡Bienvenido! 👋  
-Soy **Adrián Geovany Domínguez Acevedo**, estudiante de **Ingeniería en Desarrollo de Software** en la **Universidad Tecnológica Metropolitana de Mérida, Yucatán**.  
+¡Bienvenido! 👋 
+Soy **Yahir Alberto Ordoñez Puc**, estudiante de **Ingeniería en Desarrollo de Software** del **5-C** en la **Universidad Tecnológica Metropolitana de Mérida, Yucatán**.  
 Este proyecto es parte de una práctica educativa para dominar Flutter, utilizando como base el **Cookbook de Flutter**, explorando temas clave para el desarrollo de aplicaciones modernas.
 
 ---
